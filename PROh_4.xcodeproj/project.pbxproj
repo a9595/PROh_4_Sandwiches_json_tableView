@@ -28,6 +28,8 @@
 		586039D5950407B30C674B3F /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		58603B5A58018201BC85B162 /* Sandwiches.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Sandwiches.json; sourceTree = "<group>"; };
 		58603BF88B9A3B483A27856B /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		84C5DC991BE0F0F900B2127B /* MyTableViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyTableViewController.h; sourceTree = "<group>"; };
+		84C5DC9A1BE0F0F900B2127B /* MyTableViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyTableViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,8 @@
 				586032CA521D8724F1864485 /* Main.storyboard */,
 				58603BF88B9A3B483A27856B /* ViewController.h */,
 				586039D5950407B30C674B3F /* ViewController.m */,
+				84C5DC991BE0F0F900B2127B /* MyTableViewController.h */,
+				84C5DC9A1BE0F0F900B2127B /* MyTableViewController.m */,
 			);
 			path = PROh_4;
 			sourceTree = "<group>";

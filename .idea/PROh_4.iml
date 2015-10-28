@@ -8,6 +8,8 @@
       <sourceFolder url="file://$MODULE_DIR$/PROh_4/Base.lproj/LaunchScreen.storyboard" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/PROh_4/Base.lproj/Main.storyboard" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/PROh_4/Info.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PROh_4/MyTableViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PROh_4/MyTableViewController.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/PROh_4/Sandwiches.json" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/PROh_4/ViewController.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/PROh_4/ViewController.m" isTestSource="false" />
